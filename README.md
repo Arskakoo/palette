@@ -1,1 +1,4 @@
-# palette
+# Palette
+
+<hr>
+

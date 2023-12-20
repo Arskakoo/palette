@@ -1,0 +1,834 @@
+{
+    "palette1": [
+        {
+            "color1": "#010101",
+            "color2": "#ffffff",
+            "color3": "#444444",
+            "color4": "#834caa"
+        }
+    ],
+    "palette2": [
+        {
+            "color1": "#29282C",
+            "color2": "#ffffff",
+            "color3": "#F00000",
+            "color4": "#F7BB0E"
+        }
+    ],
+    "palette3": [
+        {
+            "color1": "#7F58AF",
+            "color2": "#64C5EB",
+            "color3": "#E84D8A",
+            "color4": "#FEB326"
+        }
+    ],
+    "palette4": [
+        {
+            "color1": "#9AE1E2",
+            "color2": "#332851",
+            "color3": "#CA3074",
+            "color4": "#F6C667"
+        }
+    ],
+    "palette5": [
+        {
+            "color1": "#6A0572",
+            "color2": "#AB83A1",
+            "color3": "#D2FDFF",
+            "color4": "#9D6E94"
+        }
+    ],
+    "palette6": [
+        {
+            "color1": "#FFD700",
+            "color2": "#FFE74C",
+            "color3": "#7FB800",
+            "color4": "#003366"
+        }
+    ],
+    "palette7": [
+        {
+            "color1": "#4CAF50",
+            "color2": "#8BC34A",
+            "color3": "#A5D6A7",
+            "color4": "#2E7D32"
+        }
+    ],
+    "palette8": [
+        {
+            "color1": "#FF3E00",
+            "color2": "#FF8C00",
+            "color3": "#FFED00",
+            "color4": "#AEEEEE"
+        }
+    ],
+    "palette9": [
+        {
+            "color1": "#E87C26",
+            "color2": "#6D422B",
+            "color3": "#C9A66B",
+            "color4": "#004F6E"
+        }
+    ],
+    "palette10": [
+        {
+            "color1": "#000000",
+            "color2": "#FFFFFF",
+            "color3": "#808080",
+            "color4": "#333333"
+        }
+    ],
+    "palette11": [
+        {
+            "color1": "#89ABE3",
+            "color2": "#567ABC",
+            "color3": "#BFD5E3",
+            "color4": "#365194"
+        }
+    ],
+    "palette12": [
+        {
+            "color1": "#FFCB77",
+            "color2": "#FF9E49",
+            "color3": "#FF6347",
+            "color4": "#AEC6CF"
+        }
+    ],
+    "palette13": [
+        {
+            "color1": "#A2A2A1",
+            "color2": "#D3D3D3",
+            "color3": "#6E7F80",
+            "color4": "#515151"
+        }
+    ],
+    "palette14": [
+        {
+            "color1": "#4CB7A5",
+            "color2": "#7ED8D4",
+            "color3": "#64B6AC",
+            "color4": "#92E3E8"
+        }
+    ],
+    "palette15": [
+        {
+            "color1": "#4D92C2",
+            "color2": "#6DB3C1",
+            "color3": "#96C7D5",
+            "color4": "#C0E0EB"
+        }
+    ],
+    "palette16": [
+        {
+            "color1": "#FF758C",
+            "color2": "#FF7EB3",
+            "color3": "#FFD3B6",
+            "color4": "#FFA5AB"
+        }
+    ],
+    "palette17": [
+        {
+            "color1": "#3F3F3F",
+            "color2": "#757575",
+            "color3": "#BDBDBD",
+            "color4": "#595959"
+        }
+    ],
+    "palette18": [
+        {
+            "color1": "#C7EFCF",
+            "color2": "#6BA292",
+            "color3": "#3B8686",
+            "color4": "#2B2D42"
+        }
+    ],
+    "palette19": [
+        {
+            "color1": "#F25F5C",
+            "color2": "#FFE066",
+            "color3": "#247BA0",
+            "color4": "#70C1B3"
+        }
+    ],
+    "palette20": [
+        {
+            "color1": "#D90429",
+            "color2": "#BF1E2E",
+            "color3": "#571845",
+            "color4": "#8A8D91"
+        }
+    ],
+    "palette21": [
+        {
+            "color1": "#0D1321",
+            "color2": "#1D3461",
+            "color3": "#2A9D8F",
+            "color4": "#EF476F"
+        }
+    ],
+    "palette22": [
+        {
+            "color1": "#FFD6BA",
+            "color2": "#E8A87C",
+            "color3": "#A85751",
+            "color4": "#554640"
+        }
+    ],
+    "palette23": [
+        {
+            "color1": "#004346",
+            "color2": "#009688",
+            "color3": "#FFC107",
+            "color4": "#FF5252"
+        }
+    ],
+    "palette24": [
+        {
+            "color1": "#7C7C7C",
+            "color2": "#595959",
+            "color3": "#FFD700",
+            "color4": "#003366"
+        }
+    ],
+    "palette25": [
+        {
+            "color1": "#B3CC57",
+            "color2": "#7EA172",
+            "color3": "#5E4A42",
+            "color4": "#BF4E30"
+        }
+    ],
+    "palette26": [
+        {
+            "color1": "#AA1C3A",
+            "color2": "#74121D",
+            "color3": "#C1574E",
+            "color4": "#F0C05A"
+        }
+    ],
+    "palette27": [
+        {
+            "color1": "#283D3B",
+            "color2": "#197278",
+            "color3": "#EDDDD4",
+            "color4": "#C44536"
+        }
+    ],
+    "palette28": [
+        {
+            "color1": "#F4E04D",
+            "color2": "#2E3B4E",
+            "color3": "#B92B27",
+            "color4": "#15616D"
+        }
+    ],
+    "palette29": [
+        {
+            "color1": "#F9EBB2",
+            "color2": "#D4A5A5",
+            "color3": "#402E2A",
+            "color4": "#6B4226"
+        }
+    ],
+    "palette30": [
+        {
+            "color1": "#73605B",
+            "color2": "#8C9CAD",
+            "color3": "#FFFAD5",
+            "color4": "#C9A66B"
+        }
+    ],
+    "palette31": [
+        {
+            "color1": "#7F7F7F",
+            "color2": "#7F0000",
+            "color3": "#C2C2C2",
+            "color4": "#FFFFFF"
+        }
+    ],
+    "palette32": [
+        {
+            "color1": "#0F5959",
+            "color2": "#A4A9AD",
+            "color3": "#DBD3C2",
+            "color4": "#3B7B7A"
+        }
+    ],
+    "palette33": [
+        {
+            "color1": "#FF5A5F",
+            "color2": "#D8D8D8",
+            "color3": "#4E4E4E",
+            "color4": "#FF2B2B"
+        }
+    ],
+    "palette34": [
+        {
+            "color1": "#FCE38A",
+            "color2": "#D8A7CA",
+            "color3": "#99C1DE",
+            "color4": "#363635"
+        }
+    ],
+    "palette35": [
+        {
+            "color1": "#00204A",
+            "color2": "#005792",
+            "color3": "#F2E8C4",
+            "color4": "#EDBB55"
+        }
+    ],
+    "palette36": [
+        {
+            "color1": "#E4572E",
+            "color2": "#F3A712",
+            "color3": "#F0E5D8",
+            "color4": "#9D858D"
+        }
+    ],
+    "palette37": [
+        {
+            "color1": "#2A1E5C",
+            "color2": "#885A5A",
+            "color3": "#E4E4E4",
+            "color4": "#FFD200"
+        }
+    ],
+    "palette38": [
+        {
+            "color1": "#FA3C5A",
+            "color2": "#FD6D57",
+            "color3": "#379683",
+            "color4": "#4A4E69"
+        }
+    ],
+    "palette39": [
+        {
+            "color1": "#27213C",
+            "color2": "#8A4F7D",
+            "color3": "#9B97B2",
+            "color4": "#FF5A5F"
+        }
+    ],
+    "palette40": [
+        {
+            "color1": "#EDF6F9",
+            "color2": "#D0E1F9",
+            "color3": "#556D8E",
+            "color4": "#192A51"
+        }
+    ],
+    "palette41": [
+        {
+            "color1": "#4D4B4C",
+            "color2": "#F2EFE9",
+            "color3": "#FAD02E",
+            "color4": "#BA3D49"
+        }
+    ],
+    "palette42": [
+        {
+            "color1": "#BBE5ED",
+            "color2": "#61C0BF",
+            "color3": "#625772",
+            "color4": "#1F2041"
+        }
+    ],
+    "palette43": [
+        {
+            "color1": "#A4303F",
+            "color2": "#CC5333",
+            "color3": "#F6D55C",
+            "color4": "#5DAE61"
+        }
+    ],
+    "palette44": [
+        {
+            "color1": "#ACD8AA",
+            "color2": "#FFE156",
+            "color3": "#6A0572",
+            "color4": "#AB83A1"
+        }
+    ],
+    "palette45": [
+        {
+            "color1": "#151515",
+            "color2": "#FF4E00",
+            "color3": "#FFD200",
+            "color4": "#87FF65"
+        }
+    ],
+    "palette46": [
+        {
+            "color1": "#ADEFD1",
+            "color2": "#7EB09B",
+            "color3": "#515A5A",
+            "color4": "#4A6A6D"
+        }
+    ],
+    "palette47": [
+        {
+            "color1": "#323232",
+            "color2": "#A2A2A1",
+            "color3": "#F5F5F5",
+            "color4": "#F0C05A"
+        }
+    ],
+    "palette48": [
+        {
+            "color1": "#D5D5D5",
+            "color2": "#F5F5F5",
+            "color3": "#7A7A7A",
+            "color4": "#595959"
+        }
+    ],
+    "palette49": [
+        {
+            "color1": "#425664",
+            "color2": "#DBD9D3",
+            "color3": "#A3886F",
+            "color4": "#4E5374"
+        }
+    ],
+    "palette50": [
+        {
+            "color1": "#3A015C",
+            "color2": "#6A0572",
+            "color3": "#AB83A1",
+            "color4": "#D6D6D6"
+        }
+    ],
+    "palette51": [
+        {
+            "color1": "#F5F3F4",
+            "color2": "#C9ADA7",
+            "color3": "#8D5A97",
+            "color4": "#613DC1"
+        }
+    ],
+    "palette52": [
+        {
+            "color1": "#EDF6F9",
+            "color2": "#D0E1F9",
+            "color3": "#556D8E",
+            "color4": "#192A51"
+        }
+    ],
+    "palette53": [
+        {
+            "color1": "#BEE2B8",
+            "color2": "#FEBE28",
+            "color3": "#D1495B",
+            "color4": "#8552A1"
+        }
+    ],
+    "palette54": [
+        {
+            "color1": "#1E1E24",
+            "color2": "#323232",
+            "color3": "#6E7783",
+            "color4": "#A2A2A1"
+        }
+    ],
+    "palette55": [
+        {
+            "color1": "#EBF6F7",
+            "color2": "#D0E1F9",
+            "color3": "#556D8E",
+            "color4": "#192A51"
+        }
+    ],
+    "palette56": [
+        {
+            "color1": "#F1F5F8",
+            "color2": "#97ACC4",
+            "color3": "#547AA9",
+            "color4": "#1C2A55"
+        }
+    ],
+    "palette57": [
+        {
+            "color1": "#EDF6F9",
+            "color2": "#D0E1F9",
+            "color3": "#556D8E",
+            "color4": "#192A51"
+        }
+    ],
+    "palette58": [
+        {
+            "color1": "#C2B4B0",
+            "color2": "#EFE7E2",
+            "color3": "#574240",
+            "color4": "#A32C28"
+        }
+    ],
+    "palette59": [
+        {
+            "color1": "#2E2E2E",
+            "color2": "#A2A2A1",
+            "color3": "#D3D3D3",
+            "color4": "#6E7F80"
+        }
+    ],
+    "palette60": [
+        {
+            "color1": "#A9CCE3",
+            "color2": "#FFD700",
+            "color3": "#E74C3C",
+            "color4": "#34495E"
+        }
+    ],
+    "palette61": [
+        {
+            "color1": "#263248",
+            "color2": "#7E8AA2",
+            "color3": "#FFFFFF",
+            "color4": "#FF3342"
+        }
+    ],
+    "palette62": [
+        {
+            "color1": "#DDF4FF",
+            "color2": "#A0D2DB",
+            "color3": "#4A5055",
+            "color4": "#F37B7E"
+        }
+    ],
+    "palette63": [
+        {
+            "color1": "#ECECEC",
+            "color2": "#595959",
+            "color3": "#333333",
+            "color4": "#FFD700"
+        }
+    ],
+    "palette64": [
+        {
+            "color1": "#3B3B3B",
+            "color2": "#696969",
+            "color3": "#A9A9A9",
+            "color4": "#F0C05A"
+        }
+    ],
+    "palette65": [
+        {
+            "color1": "#E4572E",
+            "color2": "#F3A712",
+            "color3": "#F0E5D8",
+            "color4": "#9D858D"
+        }
+    ],
+    "palette66": [
+        {
+            "color1": "#F4E04D",
+            "color2": "#2E3B4E",
+            "color3": "#B92B27",
+            "color4": "#15616D"
+        }
+    ],
+    "palette67": [
+        {
+            "color1": "#F9EBB2",
+            "color2": "#D4A5A5",
+            "color3": "#402E2A",
+            "color4": "#6B4226"
+        }
+    ],
+    "palette68": [
+        {
+            "color1": "#73605B",
+            "color2": "#8C9CAD",
+            "color3": "#FFFAD5",
+            "color4": "#C9A66B"
+        }
+    ],
+    "palette69": [
+        {
+            "color1": "#7F7F7F",
+            "color2": "#7F0000",
+            "color3": "#C2C2C2",
+            "color4": "#FFFFFF"
+        }
+    ],
+    "palette70": [
+        {
+            "color1": "#0F5959",
+            "color2": "#A4A9AD",
+            "color3": "#DBD3C2",
+            "color4": "#3B7B7A"
+        }
+    ],
+    "palette71": [
+        {
+            "color1": "#FF5A5F",
+            "color2": "#D8D8D8",
+            "color3": "#4E4E4E",
+            "color4": "#FF2B2B"
+        }
+    ],
+    "palette72": [
+        {
+            "color1": "#FCE38A",
+            "color2": "#D8A7CA",
+            "color3": "#99C1DE",
+            "color4": "#363635"
+        }
+    ],
+    "palette73": [
+        {
+            "color1": "#00204A",
+            "color2": "#005792",
+            "color3": "#F2E8C4",
+            "color4": "#EDBB55"
+        }
+    ],
+    "palette74": [
+        {
+            "color1": "#E4572E",
+            "color2": "#F3A712",
+            "color3": "#F0E5D8",
+            "color4": "#9D858D"
+        }
+    ],
+    "palette75": [
+        {
+            "color1": "#2A1E5C",
+            "color2": "#885A5A",
+            "color3": "#E4E4E4",
+            "color4": "#FFD200"
+        }
+    ],
+    "palette76": [
+        {
+            "color1": "#FA3C5A",
+            "color2": "#FD6D57",
+            "color3": "#379683",
+            "color4": "#4A4E69"
+        }
+    ],
+    "palette77": [
+        {
+            "color1": "#27213C",
+            "color2": "#8A4F7D",
+            "color3": "#9B97B2",
+            "color4": "#FF5A5F"
+        }
+    ],
+    "palette78": [
+        {
+            "color1": "#EDF6F9",
+            "color2": "#D0E1F9",
+            "color3": "#556D8E",
+            "color4": "#192A51"
+        }
+    ],
+    "palette79": [
+        {
+            "color1": "#4D4B4C",
+            "color2": "#F2EFE9",
+            "color3": "#FAD02E",
+            "color4": "#BA3D49"
+        }
+    ],
+    "palette80": [
+        {
+            "color1": "#BBE5ED",
+            "color2": "#61C0BF",
+            "color3": "#625772",
+            "color4": "#1F2041"
+        }
+    ],
+    "palette81": [
+        {
+            "color1": "#A4303F",
+            "color2": "#CC5333",
+            "color3": "#F6D55C",
+            "color4": "#5DAE61"
+        }
+    ],
+    "palette82": [
+        {
+            "color1": "#ACD8AA",
+            "color2": "#FFE156",
+            "color3": "#6A0572",
+            "color4": "#AB83A1"
+        }
+    ],
+    "palette83": [
+        {
+            "color1": "#151515",
+            "color2": "#FF4E00",
+            "color3": "#FFD200",
+            "color4": "#87FF65"
+        }
+    ],
+    "palette84": [
+        {
+            "color1": "#ADEFD1",
+            "color2": "#7EB09B",
+            "color3": "#515A5A",
+            "color4": "#4A6A6D"
+        }
+    ],
+    "palette85": [
+        {
+            "color1": "#323232",
+            "color2": "#A2A2A1",
+            "color3": "#F5F5F5",
+            "color4": "#F0C05A"
+        }
+    ],
+    "palette86": [
+        {
+            "color1": "#D5D5D5",
+            "color2": "#F5F5F5",
+            "color3": "#7A7A7A",
+            "color4": "#595959"
+        }
+    ],
+    "palette87": [
+        {
+            "color1": "#425664",
+            "color2": "#DBD9D3",
+            "color3": "#A3886F",
+            "color4": "#4E5374"
+        }
+    ],
+    "palette88": [
+        {
+            "color1": "#3A015C",
+            "color2": "#6A0572",
+            "color3": "#AB83A1",
+            "color4": "#D6D6D6"
+        }
+    ],
+    "palette89": [
+        {
+            "color1": "#F5F3F4",
+            "color2": "#C9ADA7",
+            "color3": "#8D5A97",
+            "color4": "#613DC1"
+        }
+    ],
+    "palette90": [
+        {
+            "color1": "#EDF6F9",
+            "color2": "#D0E1F9",
+            "color3": "#556D8E",
+            "color4": "#192A51"
+        }
+    ],
+    "palette91": [
+        {
+            "color1": "#BEE2B8",
+            "color2": "#FEBE28",
+            "color3": "#D1495B",
+            "color4": "#8552A1"
+        }
+    ],
+    "palette92": [
+        {
+            "color1": "#1E1E24",
+            "color2": "#323232",
+            "color3": "#6E7783",
+            "color4": "#A2A2A1"
+        }
+    ],
+    "palette93": [
+        {
+            "color1": "#EBF6F7",
+            "color2": "#D0E1F9",
+            "color3": "#556D8E",
+            "color4": "#192A51"
+        }
+    ],
+    "palette94": [
+        {
+            "color1": "#F1F5F8",
+            "color2": "#97ACC4",
+            "color3": "#547AA9",
+            "color4": "#1C2A55"
+        }
+    ],
+    "palette95": [
+        {
+            "color1": "#EDF6F9",
+            "color2": "#D0E1F9",
+            "color3": "#556D8E",
+            "color4": "#192A51"
+        }
+    ],
+    "palette96": [
+        {
+            "color1": "#C2B4B0",
+            "color2": "#EFE7E2",
+            "color3": "#574240",
+            "color4": "#A32C28"
+        }
+    ],
+    "palette97": [
+        {
+            "color1": "#2E2E2E",
+            "color2": "#A2A2A1",
+            "color3": "#D3D3D3",
+            "color4": "#6E7F80"
+        }
+    ],
+    "palette98": [
+        {
+            "color1": "#A9CCE3",
+            "color2": "#FFD700",
+            "color3": "#E74C3C",
+            "color4": "#34495E"
+        }
+    ],
+    "palette99": [
+        {
+            "color1": "#263248",
+            "color2": "#7E8AA2",
+            "color3": "#FFFFFF",
+            "color4": "#FF3342"
+        }
+    ],
+    "palette100": [
+        {
+            "color1": "#DDF4FF",
+            "color2": "#A0D2DB",
+            "color3": "#4A5055",
+            "color4": "#F37B7E"
+        }
+    ],
+    "palette101": [
+        {
+            "color1": "#ECECEC",
+            "color2": "#595959",
+            "color3": "#333333",
+            "color4": "#FFD700"
+        }
+    ],
+    "palette102": [
+        {
+            "color1": "#3B3B3B",
+            "color2": "#696969",
+            "color3": "#A9A9A9",
+            "color4": "#F0C05A"
+        }
+    ],
+    "palette103": [
+        {
+            "color1": "#E4572E",
+            "color2": "#F3A712",
+            "color3": "#F0E5D8",
+            "color4": "#9D858D"
+        }
+    ],
+    "palette104": [
+        {
+            "color1": "#F4E04D",
+            "color2": "#2E3B4E",
+            "color3": "#B92B27",
+            "color4": "#15616D"
+        }
+    ]
+}
