@@ -20,7 +20,6 @@ html,
 body {
     min-height: 100vh !important;
     max-width: 100vw !important;
-    background-color: rgba(222, 222, 222, 0.314);
 }
 
 body {
@@ -28,6 +27,8 @@ body {
     flex-direction: column !important;
     padding: calc(var(--size-scaler) * 3) !important;
     gap: var(--size-scaler) !important;
+    background-color: #ffffff;
+    background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");
 }
 
 header,
@@ -72,7 +73,7 @@ footer p {
 }
 
 .colors {
-    margin-top: 15%;
+    margin-top: 10%;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     justify-content: center;
@@ -82,11 +83,11 @@ footer p {
 }
 
 #color {
-    margin: -30px;
+    margin: -20px;
     border: black solid 0px;
-    height: 1px;
-    width: 1px;
-    padding: 80px;
+    height: 1%;
+    width: 1%;
+    padding: 5%;
     border-radius: 50%;
 }
 
@@ -117,7 +118,7 @@ footer p {
     margin-top: 60px;
     display: flex;
     justify-content: center;
-    gap: 37px;
+    gap: 3%;
     text-align: center;
 }
 
@@ -158,7 +159,7 @@ footer p {
     margin: auto;
     padding: 30px;
     border: 1px solid #888;
-    width: 30%;
+    width: 80%;
     border-radius: 12px;
 }
 
@@ -203,4 +204,15 @@ footer p {
     color: #000000;
     float: right;
     margin-top: 20px;
+}
+
+@media only screen and (max-width: 850px) {
+    #color {
+        margin: -20px;
+        border: black solid 0px;
+        height: 1%;
+        width: 1%;
+        padding: 12%;
+        border-radius: 50%;
+    }
 }
